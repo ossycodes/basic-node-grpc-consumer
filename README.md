@@ -34,3 +34,5 @@ you should get a reponse like this
     }
 }
 ```
+
+## Big shoutout to Thomas Hunter II for the Distributed Nodejs book
